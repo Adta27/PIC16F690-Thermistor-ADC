@@ -4,14 +4,6 @@ This project is a temperature sensing circuit built using a PIC16F690 microcontr
 
 The goal of this project was to learn how analog sensors, ADC conversion, microcontroller programming, and PCB design work together in an embedded system.
 
-## Demo
-
-![Working Demo](images/working-demo.jpg)
-
-## Schematic
-
-![Schematic](images/schematic.png)
-
 ## What It Does
 
 - Reads temperature changes using a thermistor voltage divider circuit
